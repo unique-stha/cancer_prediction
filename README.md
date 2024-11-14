@@ -1,4 +1,4 @@
-# Breast cancer diagnosis predictor
+# Breast cancer prediction using Machine Learning
 
 ## Overview
 
